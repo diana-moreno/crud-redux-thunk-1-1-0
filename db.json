@@ -1,16 +1,34 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "Carrot juice",
+      "price": "3",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "Apple juice",
+      "price": "5",
+      "id": 2
+    },
+    {
+      "name": "Coconut water",
+      "price": "3",
+      "id": 3
+    },
+    {
+      "name": "Lemon juice",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "name": "Strawberry juice",
+      "price": "2",
+      "id": 5
+    },
+    {
+      "name": "Berry juice",
+      "price": "2",
+      "id": 7
     }
   ]
 }
